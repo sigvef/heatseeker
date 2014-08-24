@@ -1,0 +1,96 @@
+[
+  {
+    "position": [
+      {
+        "type": "point",
+        "startFrame": 0,
+        "endFrame": 0,
+        "point": [-0.97,1.54,7.99]
+      },
+      {
+        "type": "spline",
+        "startFrame": 1,
+        "endFrame": 550,
+        "easing": "smoothstep",
+        "points": [
+          [6.98,1.16,16.45],
+          [7.72,1.16,4.12],
+          [7.74,1.16,1.71]
+        ]
+      },
+      {
+        "type": "spline",
+        "startFrame": 550,
+        "endFrame": 1100,
+        "easing": "smoothstep",
+        "points": [
+          [4.55,1.3,-8.96],
+          [1.11,3.23,-10.75],
+          [-4.33,4.63,-7.42],
+          [-2.3,3.15,-2.12]
+        ]
+      },
+      {
+        "type": "spline",
+        "startFrame": 1100,
+        "endFrame": 1337,
+        "easing": "smoothstep",
+        "points": [
+          [-5.83,2.11,4.92],
+          [-3.87,1.48,10.32],
+          [8.83,8.03,20.91]
+        ]
+      }
+    ],
+    "lookAt": [
+      {
+        "type": "point",
+        "startFrame": 0,
+        "endFrame": 1,
+        "point": [-0.97, 1.54, 7.51]
+      },
+      {
+        "type": "spline",
+        "startFrame": 1,
+        "endFrame": 550,
+        "easing": "smoothstep",
+        "points": [
+          [-2.22,-0.71,7],
+          [2.76,1.15,4.54],
+          [2.86,1.11,2.72]
+        ]
+      },
+      {
+        "type": "spline",
+        "startFrame": 550,
+        "endFrame": 1100,
+        "easing": "smoothstep",
+        "points": [
+          [2.51,1.47,-7.23],
+          [0.19,2.75,-6.54],
+          [-1.74,2.99,-3.07],
+          [-1.4,3.38,-0.49]
+        ]
+      },
+      {
+        "type": "spline",
+        "startFrame": 1100,
+        "endFrame": 1337,
+        "easing": "smoothstep",
+        "points": [
+          [-1.85,2.12,4.83],
+          [-2.05,1.81,7.63],
+          [2.54,3.35,1.75]
+        ]
+      }
+    ],
+    "roll": [
+      {
+        "type": "fixed",
+        "startFrame": 0,
+        "endFrame": 1100,
+        "value": 0
+      }
+    ]
+  }
+]

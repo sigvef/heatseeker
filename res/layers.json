@@ -1,0 +1,74 @@
+[
+  {
+    "type": "CarLayer",
+    "displayName": "Car testing",
+    "startFrame": 0,
+    "endFrame": 3035,
+    "color": "#1b592f",
+    "config": {}
+  },
+  {
+    "type": "ThresholdLayer",
+    "displayName": "Threshold fading",
+    "startFrame": 2950,
+    "endFrame": 6435,
+    "color": "#ba33f0",
+    "config": {}
+  },
+  {
+    "type": "BlinkyTunnelLayer",
+    "displayName": "Blinkytunnel",
+    "startFrame": 3930,
+    "endFrame": 5341,
+    "color": "#ad3ba0",
+    "config": {}
+  },
+  {
+    "type": "PlasmaCubeLayer",
+    "displayName": "plasma cube",
+    "startFrame": 5341,
+    "endFrame": 6435,
+    "color": "#3baa0d",
+    "config": {}
+  },
+  {
+    "type": "EndLayer",
+    "displayName": "endlayer",
+    "startFrame": 6435,
+    "endFrame": 7540,
+    "color": "#aa0b3d",
+    "config": {}
+  },
+  {
+    "type": "BloomLayer",
+    "displayName": "Bloom",
+    "startFrame": 0,
+    "endFrame": 6435,
+    "color": "#ad3ba0",
+    "config": {}
+  },
+  {
+    "type": "ConsoleLayer",
+    "displayName": "Console post fx",
+    "startFrame": 0,
+    "endFrame": 2963,
+    "color": "#03dd5b",
+    "config": {}
+  },
+  {
+    "type": "VignetteLayer",
+    "displayName": "Vignette",
+    "startFrame": 0,
+    "endFrame": 7541,
+    "color": "#35d0bd",
+    "config": {}
+  },
+  {
+    "type": "BlackoutLayer",
+    "displayName": "Blackouts",
+    "startFrame": 0,
+    "endFrame": 3268,
+    "color": "#b1ab0a",
+    "config": {}
+  }
+]

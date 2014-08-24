@@ -1,0 +1,5 @@
+{
+  color: { type: 'v3', value: new THREE.Vector3(.5, .5, .5)},
+  tDiffuse: { type: 't', value: null},
+  t: { type: 'f', value: 0}
+}

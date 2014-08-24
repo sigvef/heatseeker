@@ -1,0 +1,5 @@
+{
+    tDiffuse: { type: 't', value: null },
+    video: { type: 't', value: null },
+    time: { type: 'f', value: 0}
+}

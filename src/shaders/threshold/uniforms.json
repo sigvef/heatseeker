@@ -1,0 +1,6 @@
+{
+    tDiffuse: { type: 't', value: null },
+    tDiffuse2: { type: 't', value: null },
+    thresholdMap: { type: 't', value: null },
+    threshold: { type: 'f', value: 0}
+}
